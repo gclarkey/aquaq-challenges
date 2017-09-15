@@ -13,3 +13,4 @@ buildNumber.properties
 
 # workspace related files
 .idea/
+*.iml
