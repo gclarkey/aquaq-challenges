@@ -1,5 +1,3 @@
-package com.aquaq.challenges;
-
 class CompactHouse {
 
     static void drawHouse(int h) {

@@ -8,6 +8,6 @@ public class Driver {
             house.drawHouse();
         }
 
-        CompactHouse.drawHouse(10);
+
     }
 }
