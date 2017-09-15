@@ -1,4 +1,4 @@
-package com.aquaq.chalenges;
+package com.aquaq.challenges;
 
 class CompactHouse {
 
