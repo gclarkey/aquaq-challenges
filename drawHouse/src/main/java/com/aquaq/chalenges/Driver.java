@@ -7,5 +7,7 @@ public class Driver {
             final House house = new House(i);
             house.drawHouse();
         }
+
+        CompactHouse.drawHouse(10);
     }
 }
