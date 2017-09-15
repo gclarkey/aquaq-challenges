@@ -1,0 +1,27 @@
+After the fairly tricky challenge last time, let's bring the difficulty right back down. We'll do the kdb version of
+something we all did in primary school - please draw a little house:
+
+q)f 3
+  /\
+ /  \
+/____\
+|    |
+|    |
+|____|
+
+
+q)f 5
+    /\
+   /  \
+  /    \
+ /      \
+/________\
+|        |
+|        |
+|        |
+|        |
+|________|
+
+Where the input is the height of the roof and the wall, so half the height of the house. This is a lot less complex than
+some of the more recent chats, so it's a bit more suited to anyone with a bit less kdb under their belts. As always,
+speed, applicability and terseness are valued!
